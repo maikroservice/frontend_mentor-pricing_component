@@ -1,0 +1,27 @@
+{
+  "name": "pricing_component",
+  "version": "1.0.0",
+  "description": "https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikroservice/frontend_mentor-pricing_component.git"
+  },
+  "keywords": [
+    "frontend-mentor"
+  ],
+  "author": "maikroservice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikroservice/frontend_mentor-pricing_component/issues"
+  },
+  "homepage": "https://github.com/maikroservice/frontend_mentor-pricing_component#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.1.1"
+  }
+}
